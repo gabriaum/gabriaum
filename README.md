@@ -1,18 +1,25 @@
-<p>Olá! Sou o Gabriaum, um programador de 16 anos com paixão por desenvolvimento de software. Sou especializado em Java, mas também possuo amplo conhecimento em Kotlin, JavaScript, HTML e CSS. Estou constantemente buscando novas oportunidades para aprimorar minhas habilidades e contribuir para projetos interessantes.</p>
+# Hi there 👋
+<p align="center">
+  <img src="https://i0.wp.com/wp.provi.com.br/wp-content/uploads/2021/04/Perfil-no-linkedin.jpg?fit=1200%2C362&ssl=1" alt="owo" />
+</p>
 
-<h3>HABILIDADES</h3>
+Hey! I'm Gabriaum, a software developer passionate about creating innovative and scalable solutions. With a solid background in Java, Kotlin, JavaScript, MySQL, MongoDB and Redis, I am constantly looking to learn and improve myself in the latest technologies and development best practices.
 
-<ul>
-  <li>Linguagens: Java, Kotlin e JavaScript;</li>
-  <li>Familiaridade com bancos de dados relacionais e não relacionais;</li>
-  <li>Boa compreensão de conceitos de programação orientada a objetos e estruturas de dados.
-</ul>
-
-<h3>CONTATOS</h3>
+## Technical knowledge 👨‍💻
 
 <ul>
-  <li><a href="https://discord.com/channels/@me/363451243906990090">Discord</a></li>
-  <li><a href="https://twitter.com/gaabriaum">Twitter</a></li>
+  <li>Programming Languages: Java, Kotlin, JavaScript</li>
+  <li>Database: MySQL, MongoDB, Redis</li>
+  <li>Version Control: Git</li>
 </ul>
 
-<h6>Sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração, projetos interessantes ou apenas para bater um papo sobre desenvolvimento de software. Estou animado para aprender e contribuir para a comunidade de programadores.</h6>
+## Contacts 🦢
+
+If you are interested in collaborating on interesting projects or have any questions, please feel free to contact me.
+
+<ul>
+  <li><a href="https://discord.com/users/363451243906990090">Discord</a></li>
+  <li><a href="https://www.twitter.com/gaabriaum">Twitter</a></li>
+</ul>
+
+I am always open to new opportunities and would love to connect with professionals in the field. Let's talk!
