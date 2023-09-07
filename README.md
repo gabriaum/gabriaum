@@ -1,4 +1,4 @@
-<h2>Eae! Me chamo gabriaum, sou um criador de sistemas, frameworks e APIs.</h2>
+<h2>Hey! My name is gabriaum, I'm a creator of systems, frameworks and APIs.</h2>
 
 <h3>Current Technologies:</h3>
 <ul style="list-style: none">
