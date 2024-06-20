@@ -12,7 +12,7 @@ I'm Gabriaum, a passionate back-end developer with expertise in Java, Kotlin, an
 
 ## How do I find
 
-- 1: [Discord](www.discord.com/channels/@me/363451243906990090)
-- 2: [Twitter](https://twitter.com/gaabriaum)
+- [Discord](www.discord.com/channels/@me/363451243906990090)
+- [Twitter](https://twitter.com/gaabriaum)
 
 Feel free to reach out if you have any questions or collaboration opportunities!
