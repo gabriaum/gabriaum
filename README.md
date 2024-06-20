@@ -1,7 +1,5 @@
 # Welcome to Gabriaum's GitHub Profile!
 
-![Header Image](header.jpg)
-
 ## About Me
 
 I'm Gabriaum, a passionate back-end developer with expertise in Java, Kotlin, and JavaScript. I enjoy crafting robust and scalable solutions that contribute to seamless user experiences. My journey in programming began with a fascination for problem-solving and has evolved into a career dedicated to delivering high-quality software solutions.
