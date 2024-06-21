@@ -7,7 +7,7 @@ I'm Gabriaum, a passionate back-end developer with expertise in Java, Kotlin, an
 ## Skills
 
 - **Languages:** Java, Kotlin, JavaScript
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, SQLite, MongoDB
 - **Tools/Platforms:** Git, IntelliJ IDEA, Docker
 
 ## How do I find
