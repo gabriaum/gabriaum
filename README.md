@@ -25,7 +25,7 @@
 <details>
   <summary>🇧🇷 Português</summary>
 
-  ## Olá! Como vai você?
+  ## Hey! Como você está?
 
   ### Sobre Mim
 
