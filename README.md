@@ -13,7 +13,7 @@
 
   - **Languages:** Java, Kotlin, JavaScript
   - **Databases:** MySQL, PostgreSQL, SQLite, MongoDB
-  - **Tools/Platforms:** Git, IntelliJ IDEA, Docker
+  - **Tools/Platforms:** Git, IntelliJ IDEA, Docker, Spring Framework
 
   ### How do I find
 
@@ -35,7 +35,7 @@
 
   - **Linguagens:** Java, Kotlin, JavaScript
   - **Bancos de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
-  - **Ferramentas/Plataformas:** Git, IntelliJ IDEA, Docker
+  - **Ferramentas/Plataformas:** Git, IntelliJ IDEA, Docker, Spring Framework
 
   ### Como me encontrar
 
