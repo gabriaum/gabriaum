@@ -5,7 +5,7 @@
 [![Discord Badge](https://img.shields.io/badge/-gabriaum-7289da?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/gabriaum)](https://discord.com/users/gabriaum)
 
 ## My name is Gabriel Bruck
-(Java | Kotlin | JavaScript | AWS | Spring Boot | HTML | CSS) 🚀
+(Java | Kotlin | JavaScript | Python | AWS | Spring Boot | HTML | CSS) 🚀
 - 👨‍💻 Backend Developer with expertise in Java, Kotlin, and JavaScript
 - 🏗️ Experience with AWS and Spring Boot for scalable solutions
 - 🎓 Passionate about clean code and efficient problem-solving
