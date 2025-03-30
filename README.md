@@ -6,7 +6,7 @@
 
 ## My name is Gabriel Bruck
 (Java | Kotlin | JavaScript | Python | AWS | Spring Boot | HTML | CSS) 🚀
-- 👨‍💻 Backend Developer with expertise in Java, Kotlin, and JavaScript
+- 👨‍💻 Backend Developer with expertise in Java, Kotlin, JavaScript and Python
 - 🏗️ Experience with AWS and Spring Boot for scalable solutions
 - 🎓 Passionate about clean code and efficient problem-solving
 - 💡 Always seeking to learn and take on new challenges
