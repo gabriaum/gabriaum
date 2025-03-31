@@ -11,6 +11,6 @@
 - 🎓 Passionate about clean code and efficient problem-solving
 - 💡 Always seeking to learn and take on new challenges
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=famimc&show_icons=true&locale=en&layout=compact" alt="famimc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriaum&show_icons=true&locale=en&layout=compact" alt="gabriaum" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=famimc&show_icons=true&locale=en" alt="famimc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriaum&show_icons=true&locale=en" alt="gabriaum" /></p>
