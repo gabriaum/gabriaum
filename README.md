@@ -6,7 +6,7 @@
 
 ## About Me
 
-Senior Backend Developer specialized in designing and implementing scalable solutions. With deep knowledge in multiple programming languages ​​and extensive experience with cloud technologies, I work to create robust and high-performance systems.
+Mid-Level Backend Developer specialized in designing and implementing scalable solutions. With deep knowledge in multiple programming languages ​​and extensive experience with cloud technologies, I work to create robust and high-performance systems.
 
 ## Technology Stack
 
