@@ -1,16 +1,67 @@
-<h1>Hi There! 👋</h1>
+# Gabriel Bruck | Mid-Level Backend Developer 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bruck-140b42352/)](https://www.linkedin.com/in/gabriel-bruck-140b42352/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrielcorreabruck@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcorreabruck@gmail.com)](mailto:gabrielcorreabruck@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-gabriaum-7289da?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/gabriaum)](https://discord.com/users/gabriaum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielbruck)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcorreabruck@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriaum)
 
-## My name is Gabriel Bruck
-(Java | Kotlin | JavaScript | Python | AWS | Spring Boot | HTML | CSS) 🚀
-- 👨‍💻 Backend Developer with expertise in Java, Kotlin, JavaScript and Python
-- 🏗️ Experience with AWS and Spring Boot for scalable solutions
-- 🎓 Passionate about clean code and efficient problem-solving
-- 💡 Always seeking to learn and take on new challenges
+## About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriaum&show_icons=true&locale=en&layout=compact" alt="gabriaum" /></p>
+Senior Backend Developer specialized in designing and implementing scalable solutions. With deep knowledge in multiple programming languages ​​and extensive experience with cloud technologies, I work to create robust and high-performance systems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriaum&show_icons=true&locale=en" alt="gabriaum" /></p>
+## Technology Stack
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frameworks & Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## Skills & Competencies
+
+- 🚀 **Advanced Backend Development** | Java and Kotlin expert for creating robust services
+- ☁️ **Cloud Architecture** | Experience in designing and implementing scalable solutions on AWS
+- 🔄 **Distributed Systems** | Development of microservices and high-availability applications
+- 📊 **Performance Optimization** | Implementation of efficient solutions and performance monitoring
+- 🔒 **Application Security** | Implementation of secure practices and data protection
+- 🧪 **Automated Testing** | Specialist in unit, integration and end-to-end testing
+
+## GitHub Metrics
+
+<table> 
+<tr> 
+<td> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriaum&layout=compact&theme=dark" alt="Most Used Languages" width="400"/> 
+</td> 
+<td> 
+<ul> 
+<li>⭐ <strong>Total Stars:</strong> 12</li> 
+<li>🔄 <strong>Commits in 2025:</strong> 29</li> 
+<li>🔀 <strong>Pull Requests:</strong> 1</li> 
+<li>🐛 <strong>Reported Issues:</strong> 0</li> 
+<li>🤝 <strong>Contributions (last year):</strong> 0</li>
+<li>📈 <strong>Rating:</strong> C+</li>
+</ul>
+</td>
+</tr>
+</table>
+
+## Development Philosophy
+
+- 📐 Advocate for clean, readable, and well-documented code
+- 🧩 Solution-oriented with a focus on scalability and long-term maintainability
+- 🔄 Practitioner of agile methodologies and continuous integration/continuous delivery
+- 🌱 Lifelong learner, constantly improving skills and adopting new technologies
+
+## Featured Projects
+
+*Coming soon...*
+
+## Contact
+
+I'm always open to new collaboration and networking opportunities. Feel free to reach out via LinkedIn or email provided above.
