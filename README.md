@@ -1,4 +1,4 @@
-# Gabriel Bruck | Mid-Level Backend Developer 👨‍💻
+# Gabriel Bruck | Mid-Level FullStack Developer 👨‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielbruck)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcorreabruck@gmail.com)
@@ -6,7 +6,7 @@
 
 ## About Me
 
-Mid-Level Backend Developer specialized in designing and implementing scalable solutions. With deep knowledge in multiple programming languages ​​and extensive experience with cloud technologies, I work to create robust and high-performance systems.
+Mid-Level FullStack Developer specialized in designing and implementing scalable solutions. With deep knowledge in multiple programming languages ​​and extensive experience with cloud technologies, I work to create robust and high-performance systems.
 
 ## Technology Stack
 
