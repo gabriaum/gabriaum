@@ -32,12 +32,13 @@ Mid-Level FullStack Developer specialized in designing and implementing scalable
 
 ## Skills & Competencies
 
-- 🚀 **Advanced Backend Development** | Java and Kotlin expert for creating robust services
-- ☁️ **Cloud Architecture** | Experience in designing and implementing scalable solutions on AWS
-- 🔄 **Distributed Systems** | Development of microservices and high-availability applications
-- 📊 **Performance Optimization** | Implementation of efficient solutions and performance monitoring
-- 🔒 **Application Security** | Implementation of secure practices and data protection
-- 🧪 **Automated Testing** | Specialist in unit, integration and end-to-end testing
+- 🚀 **Advanced Backend Development** | Java and Kotlin expert for creating robust services  
+- ☁️ **Cloud Architecture** | Experience in designing and implementing scalable solutions on AWS  
+- 🔄 **Distributed Systems** | Development of microservices and high-availability applications  
+- 📊 **Performance Optimization** | Implementation of efficient solutions and performance monitoring  
+- 🔒 **Application Security** | Implementation of secure practices and data protection  
+- 🧪 **Automated Testing** | Specialist in unit, integration and end-to-end testing  
+- 🔌 **Embedded Systems & Arduino** | Experience with Arduino development, IoT projects, and hardware-software integration
 
 ## GitHub Metrics
 
