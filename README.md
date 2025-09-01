@@ -69,7 +69,19 @@ Mid-Level FullStack Developer specialized in designing and implementing scalable
 
 ## Featured Projects
 
-*Coming soon...*
+### 🚀 [Vexel](https://www.vexelcore.com/) — Custom Development Company
+**Founder & Lead Developer (2025 - Present)**  
+At Vexel, I lead the development of **custom-tailored digital solutions**, ranging from institutional websites to advanced systems with cloud integration.  
+- 🖥️ Development of corporate websites with high performance and smooth design  
+- ⚡ Tailored systems with scalability and long-term maintainability  
+- 🔒 Security-first mindset in every delivery  
+
+### 🏢 Nordshelf — Technology & Innovation
+**Co-CEO & Backend Specialist (2025 - Present)**  
+At Nordshelf, I focus on **software engineering, infrastructure, and client solutions**, helping companies grow with secure and innovative technology.  
+- 🔧 Backend systems with Java, Kotlin, and Spring Boot  
+- ☁️ Cloud services deployment and optimization  
+- 📊 IT consulting and automation solutions  
 
 ## Contact
 
