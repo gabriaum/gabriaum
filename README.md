@@ -83,17 +83,11 @@ At Vexel, I lead the development of **custom-tailored digital solutions**, from 
 ---
 
 ### 🏢 Nordshelf — Technology & Innovation  
-**Co-CEO & Backend Specialist (2025 - Present)**  
+**Co-CEO & Backend Specialist (2024 - 2025)**  
 Focused on **software engineering, infrastructure, and client solutions**, helping companies grow with secure and innovative technology.  
 - 🔧 Backend systems with Java, Kotlin & Spring Boot  
 - ☁️ Cloud services deployment and optimization  
 - 📊 IT consulting & automation solutions  
-
----
-
-### 🌍 Open-Source Contributions  
-- [Hexagonal-Architecture-Java](https://github.com/gabriaum/hexagonal-architecture-java) – Clean architecture example in Java  
-- [Spring-Kafka-Boilerplate](https://github.com/gabriaum/spring-kafka-boilerplate) – Event-driven microservices starter  
 
 ---
 
