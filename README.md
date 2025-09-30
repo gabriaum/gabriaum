@@ -74,7 +74,7 @@ Passionate about clean code, performance optimization, and mentoring teams.
 ## 🚀 Featured Projects
 
 ### [Vexel](https://www.vexelcore.com/) — Custom Development Company  
-**Founder & Lead Developer (2025 - Present)**  
+**Lead Developer (2023 - Present)**  
 At Vexel, I lead the development of **custom-tailored digital solutions**, from institutional websites to advanced systems with cloud integration.  
 - 🖥️ Corporate websites with high performance and smooth design  
 - ⚡ Scalable systems with long-term maintainability  
@@ -83,7 +83,7 @@ At Vexel, I lead the development of **custom-tailored digital solutions**, from 
 ---
 
 ### 🏢 Nordshelf — Technology & Innovation  
-**Co-CEO & Backend Specialist (2024 - 2025)**  
+**Backend Specialist (2024 - 2025)**  
 Focused on **software engineering, infrastructure, and client solutions**, helping companies grow with secure and innovative technology.  
 - 🔧 Backend systems with Java, Kotlin & Spring Boot  
 - ☁️ Cloud services deployment and optimization  
