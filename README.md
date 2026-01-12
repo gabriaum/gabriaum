@@ -94,4 +94,4 @@ Focused on **software engineering, infrastructure, and client solutions**, helpi
 ## 📫 Contact
 
 I'm always open to new collaboration and networking opportunities.  
-Feel free to reach out via **[LinkedIn](https://linkedin.com/in/gabrielbruck)** or **[Email](mailto:gabrielcorreabruck@gmail.com)**.  
+Feel free to reach out via **[LinkedIn](https://linkedin.com/in/gabriel-bruck-140b42352)** or **[Email](mailto:gabrielcorreabruck@gmail.com)**.  
