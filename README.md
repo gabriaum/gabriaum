@@ -57,6 +57,9 @@ Passionate about clean code, performance optimization, and mentoring teams.
 <td> 
 <img src="https://github-readme-stats.vercel.app/api?username=gabriaum&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/> 
 </td>
+<td>
+  ![](https://komarev.com/ghpvc/?username=ShiftSad&label=PROFILE+VIEWS)
+</td>
 </tr>
 </table>
 
