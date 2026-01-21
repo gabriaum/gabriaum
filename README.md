@@ -1,98 +1,99 @@
-# Gabriel Bruck | FullStack Developer | Java Specialist ☕💻
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielbruck)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcorreabruck@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriaum)
+<img src="https://user-images.githubusercontent.com/74038190/212750082-7e1e9b6b-7c7b-4e2d-8c2a-3c3c92c1e7a4.gif" width="100%"/>
 
----
+# Gabriel Bruck  
+## Backend Engineer • Java Specialist • Secure & Scalable Systems
 
-## 👨‍💻 About Me
-FullStack Developer with **8+ years of experience** in designing, building, and deploying scalable software solutions.  
-Specialized in **Java/Kotlin ecosystems**, cloud-native applications, and distributed architectures.  
-Passionate about clean code, performance optimization, and mentoring teams.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=820&lines=Backend+Engineering+with+Java;Designing+Secure+and+Scalable+Systems;Distributed+Architecture+and+APIs;Security-Driven+Software+Development" />
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-bruck-140b42352)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcorreabruck@gmail.com)
 
-## ⚡ Tech Stack
-
-### Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-### Additional
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</div>
 
 ---
 
-## 🏆 Skills & Competencies
+## Professional Summary
 
-- 🚀 **Advanced Backend Development** | Java & Kotlin expert for scalable services  
-- ☁️ **Cloud Architecture** | Designing and implementing solutions on AWS  
-- 🔄 **Distributed Systems** | Microservices & high-availability applications  
-- 📊 **Performance Optimization** | Efficient solutions and monitoring strategies  
-- 🔒 **Application Security** | Secure coding practices & data protection  
-- 🧪 **Automated Testing** | Unit, integration, and end-to-end testing  
+Backend Engineer with over **8 years of experience** specializing in **Java-based backend systems**, distributed architectures, and high-availability services. Proven background in designing, implementing, and maintaining **secure, scalable, and performance-oriented applications** operating in production environments with high traffic and strict reliability requirements.
+
+Strong focus on **backend architecture, system communication, and cybersecurity**, applying industry best practices such as **secure-by-design**, **defense-in-depth**, and **least-privilege access control**. Experienced in collaborating with cross-functional teams, translating business requirements into robust technical solutions, and supporting systems throughout their full lifecycle.
 
 ---
 
-## 📊 GitHub Metrics
+## Core Competencies
 
-<table> 
-<tr> 
-<td> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriaum&layout=compact&theme=dark" alt="Most Used Languages" width="400"/> 
-</td> 
-<td> 
-<img src="https://github-readme-stats.vercel.app/api?username=gabriaum&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/> 
-</td>
-</tr>
-</table>
-
-![](https://komarev.com/ghpvc/?username=gabriaum&label=PROFILE+VIEWS)<br/>
----
-
-## 💡 Development Philosophy
-
-- 📐 Advocate for clean, readable, and well-documented code  
-- 🧩 Solution-oriented with a focus on scalability and maintainability  
-- 🔄 Practitioner of agile methodologies & CI/CD  
-- 🌱 Lifelong learner, always exploring new technologies  
+- Advanced Backend Engineering with Java as primary language  
+- Design and implementation of RESTful APIs with strong security guarantees  
+- Distributed systems, microservices, and service-to-service communication  
+- Application security, authentication, authorization, and data protection  
+- Performance tuning, scalability strategies, and resource optimization  
+- Observability, monitoring, logging, and production troubleshooting  
 
 ---
 
-## 🚀 Featured Projects
+## Programming Languages
 
-### [Vexel](https://www.vexelcore.com/) — Custom Development Company  
-**Lead Developer (2023 - Present)**  
-At Vexel, I lead the development of **custom-tailored digital solutions**, from institutional websites to advanced systems with cloud integration.  
-- 🖥️ Corporate websites with high performance and smooth design  
-- ⚡ Scalable systems with long-term maintainability  
-- 🔒 Security-first mindset in every delivery  
+<div align="center">
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🏢 Nordshelf — Technology & Innovation  
-**Backend Specialist (2024 - 2025)**  
-Focused on **software engineering, infrastructure, and client solutions**, helping companies grow with secure and innovative technology.  
-- 🔧 Backend systems with Java, Kotlin & Spring Boot  
-- ☁️ Cloud services deployment and optimization  
-- 📊 IT consulting & automation solutions  
+</div>
 
 ---
 
-## 📫 Contact
+## Security & Engineering Focus
 
-I'm always open to new collaboration and networking opportunities.  
-Feel free to reach out via **[LinkedIn](https://linkedin.com/in/gabriel-bruck-140b42352)** or **[Email](mailto:gabrielcorreabruck@gmail.com)**.  
+- Secure coding practices and proactive vulnerability mitigation  
+- Authentication and authorization using JWT, OAuth2, and RBAC  
+- Protection against common attack vectors such as SQL Injection, XSS, CSRF, and replay attacks  
+- API hardening, rate limiting, and input validation strategies  
+- Secure data handling, encryption at rest and in transit  
+- Principles of Zero Trust and secure service-to-service communication  
+
+---
+
+## Engineering Principles & Work Approach
+
+- Clean, maintainable, and well-documented codebases  
+- Security, performance, and reliability treated as first-class concerns  
+- Strong emphasis on clear technical communication and system contracts  
+- Automated testing, CI/CD pipelines, and repeatable deployments  
+- Data-driven technical decisions based on metrics and system behavior  
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gabriaum&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriaum&layout=compact&theme=dark&hide_border=true" width="48%"/>
+
+</div>
+
+---
+
+## Professional Interests
+
+- Backend architecture for high-scale systems  
+- Application and infrastructure security  
+- Performance engineering and low-latency systems  
+- Distributed systems design and fault tolerance  
+- Continuous improvement of engineering practices  
+
+---
+
+## Contact
+
+Open to backend engineering, system architecture, and security-focused opportunities.  
+Reach out via **LinkedIn** or **Email**.
