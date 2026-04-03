@@ -8,5 +8,5 @@ Currently pursuing a **BSc in Software Engineering**, with a strong focus on sof
 ## Contact
 
 - Email: gabrielcorreabruck@gmail.com  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [LinkedIn](https://www.linkedin.com/in/gabriel-bruck-140b42352/)  
 - [Twitter/X](https://x.com/gabriaaum)
