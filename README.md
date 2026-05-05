@@ -15,8 +15,9 @@ Também trabalho com arquitetura de sistemas distribuídos, sempre buscando solu
 - Java & Kotlin
 - Spring Boot
 - APIs REST
-- PostgreSQL & NoSQL
+- SQL & NoSQL
 - Redis (cache e performance)
+- Kafka
 - Sistemas distribuídos
 - Arquitetura backend
 - Otimização de performance
