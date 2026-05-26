@@ -22,29 +22,6 @@ Também trabalho com arquitetura de sistemas distribuídos, sempre buscando solu
 - Arquitetura backend
 - Otimização de performance
 
-## 🛠️ Projetos em destaque
-
-### 🔹 Gatekeeper API
-API REST para gerenciamento de registros com fluxo administrativo.
-
-- Arquitetura limpa
-- Controle de fluxo de aprovação
-- Foco em organização e escalabilidade
-
-### 🔹 Smart Task Scheduler
-Simulador de sistema inteligente de agendamento de tarefas.
-
-- Aplicação de regras de negócio complexas
-- Organização de código voltada a escalabilidade
-- Estrutura pronta para expansão
-
-### 🔹 Contract Flow
-Sistema para geração dinâmica de contratos em PDF via API.
-
-- Spring Boot
-- Geração automatizada de documentos
-- Integração via endpoints REST
-
 ## 📈 Objetivo
 
 Busco oportunidades como Backend Engineer trabalhando com sistemas de alta escala, onde eu possa contribuir com performance, arquitetura e qualidade de código.
