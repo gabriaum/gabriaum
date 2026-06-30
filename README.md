@@ -30,3 +30,6 @@ Busco oportunidades como Backend Engineer trabalhando com sistemas de alta escal
 
 - Email: gabrielcorreabruck@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gabriel-bruck-140b42352/
+
+## 📄 Projetos
+[Chefiou - Gestão de Restaurantes](https://www.chefiou.com.br/) › Você não abriu um restaurante para passar o dia resolvendo problemas.
