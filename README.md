@@ -85,7 +85,7 @@ Meu stack principal orbita em torno de **Java** (da versão 7 às mais recentes)
 
 ---
 
-### 📄 Projetos em produção
+### 📄 Projetos PÚBLICOS em produção
 
 Sistemas reais, com usuários reais, rodando hoje:
 
