@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou Gabriel Correa Bruck 👋🇧🇷</h1>
-<h3 align="center">Fullstack Developer | Ênfase em Backend Java | Sistemas de Alta Performance</h3>
+<h1 align="center">Gabriel Correa Bruck</h1>
+<h3 align="center">Software Engineer · Backend-heavy · Sistemas distribuídos, alta performance e escalabilidade</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-bruck-140b42352/">
@@ -12,53 +12,53 @@
 
 ---
 
-### 🚀 Sobre mim
+### Sobre
 
-Desenvolvedor **fullstack** com ênfase em **backend Java**, focado em sistemas de **alta performance**, **baixa latência** e **arquitetura escalável**.
+Engenheiro de software com foco em **arquitetura de sistemas**, **backend em Java** e **design de APIs para escala**. Trabalho de ponta a ponta, modelagem de dados, autenticação, mensageria, performance e frontend quando o produto exige. Mas o eixo do meu trabalho é decisão técnica: como um sistema se comporta sob carga, como ele falha, e como ele evolui sem reescrita.
 
-No backend, construo APIs REST seguras com **Spring Boot**, **Spring Security** e **JWT/OAuth2**, modelo dados para escala em **PostgreSQL** e **MySQL**, e uso **Kafka** para mensageria e comunicação assíncrona entre serviços. No frontend, entrego as interfaces que consomem essas APIs com **Next.js** e **TypeScript**. Do banco de dados à tela do usuário.
-
-Hoje aplico esse conhecimento em SaaS e produtos próprios em produção (veja abaixo 👇), atendendo clientes reais de ponta a ponta: arquitetura, API, banco de dados e frontend.
+Hoje sustento em produção dois sistemas próprios com clientes reais, responsável por todo o ciclo: arquitetura, implementação, operação e evolução.
 
 ---
 
-### 🧠 Stack principal
+### Como penso engenharia
 
-Meu stack principal orbita em torno de **Java** (da versão 7 às mais recentes), com atuação fullstack.
+- **Dados antes de código.** Modelagem relacional e não-relacional pensada para o padrão de acesso real do sistema, não para o CRUD mais simples de implementar.
+- **Contratos de API como interface, não como detalhe.** APIs REST versionadas, seguras (JWT/OAuth2) e desenhadas para consumo previsível por outros times ou serviços.
+- **Assíncrono onde faz sentido.** Uso Kafka para desacoplar serviços e absorver picos de carga sem propagar falha em cascata.
+- **Performance é requisito, não otimização tardia.** Decisões de indexação, cache e concorrência são parte do design, não um ajuste de última hora.
+- **Ownership de produto, não só de código.** Entender o negócio por trás do sistema muda as decisões técnicas que valem a pena tomar.
+
+---
+
+### Stack
 
 **Linguagens**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 </p>
 
-**Frameworks & Backend**
+**Backend & Arquitetura**
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-3C873A?style=flat-square&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lombok-A6002B?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT_%2F_OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-**Bancos de dados**
+**Dados**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/H2-1F1F1F?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
 **Mensageria & Cache**
@@ -69,45 +69,33 @@ Meu stack principal orbita em torno de **Java** (da versão 7 às mais recentes)
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
-**Frontend & Mobile**
+**Frontend & Mobile** *(quando o produto exige)*
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
-**Integrações**
-<p align="left">
-  <img src="https://img.shields.io/badge/MercadoPago_SDK-00B1EA?style=flat-square&logo=mercadopago&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenPDF-EE4C2C?style=flat-square" />
-</p>
+---
 
-**Áreas de foco:** APIs REST seguras · Autenticação/Autorização (JWT/OAuth2) · Modelagem de dados relacionais e não-relacionais · Mensageria e cache distribuído · Integrações de pagamento · Desenvolvimento fullstack
+### Sistemas em produção
+
+**[Chefiou: SaaS de gestão para restaurantes](https://www.chefiou.com.br/)**
+Plataforma de assinatura para automação operacional de restaurantes: cobrança recorrente, emissão de documentos e autenticação multiusuário sobre uma API própria.
+`Java` `Spring Boot` `Spring Security` `Spring Data` `PostgreSQL` `Kafka` `JWT/OAuth2` `MercadoPago SDK` `OpenPDF` - `Next.js` `TypeScript`
+
+**[Fabiano Ribeiro Imóveis](https://www.fabianoribeiroimoveis.com/)**
+Portal de imóveis com painel administrativo e API dedicada para gestão de anúncios e conteúdo.
+`Java` `Spring Boot` `Spring Security` `Spring Data` `MySQL` `JWT/OAuth2` - `Next.js` `TypeScript`
+
+Ambos são projetados, implementados e operados por mim. Da modelagem de dados à interface, incluindo as decisões de arquitetura por trás de cada um.
 
 ---
 
-### 📄 Projetos PÚBLICOS em produção
+### O que eu busco
 
-Sistemas reais, com usuários reais, rodando hoje:
-
-**[Chefiou – SaaS de Gestão para Restaurantes](https://www.chefiou.com.br/)**
-Plataforma SaaS para donos de restaurante automatizarem operações do dia a dia, com cobrança recorrente e geração de documentos.
-`Java` `Spring Boot` `Spring Security` `Spring Data` `JWT` `OAuth2` `PostgreSQL` `Kafka` `Lombok` `H2` `OpenPDF` `MercadoPago SDK` · `Next.js` `TypeScript` `HTML` `CSS`
-
-**[Fabiano – Consultor de Imóveis](https://www.fabianoribeiroimoveis.com/)**
-Site de exibição de imóveis com painel administrativo e API própria para gestão dos anúncios.
-`Java` `Spring Boot` `Spring Security` `Spring Data` `JWT` `OAuth2` `MySQL` `Lombok` `H2` · `Next.js` `TypeScript` `HTML` `CSS`
-
-> Ambos os projetos foram construídos e são mantidos por mim, ponta a ponta: modelagem de dados, API, autenticação, integrações e frontend.
+Times de engenharia trabalhando em **sistemas de alta escala**, onde decisões de arquitetura e qualidade de código tenham peso real no resultado. Não só velocidade de entrega, mas sistemas que seguem corretos e performáticos conforme crescem.
 
 ---
-
-### 📈 O que eu busco
-
-Estou aberto a oportunidades como **Desenvolvedor Fullstack com ênfase em Backend Java**, em times que trabalham com **sistemas de alta escala**, onde eu possa contribuir com performance, arquitetura sólida e qualidade de código do banco de dados à interface.
-
----
-
-### 📫 Vamos conversar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-bruck-140b42352/">LinkedIn</a> ·
