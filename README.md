@@ -8,6 +8,9 @@
   <a href="mailto:gabrielcorreabruck@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://gabriaum.vercel.app">
+    <img src="https://img.shields.io/badge/Website-9d00ff?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -74,26 +77,6 @@ Hoje sustento em produção dois sistemas próprios com clientes reais, respons�
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
-
----
-
-### Sistemas em produção
-
-**[Chefiou: SaaS de gestão para restaurantes](https://www.chefiou.com.br/)**
-Plataforma de assinatura para automação operacional de restaurantes: cobrança recorrente, emissão de documentos e autenticação multiusuário sobre uma API própria.
-`Java` `Spring Boot` `Spring Security` `Spring Data` `PostgreSQL` `Kafka` `JWT/OAuth2` `MercadoPago SDK` `OpenPDF` - `Next.js` `TypeScript`
-
-**[Fabiano Ribeiro Imóveis](https://www.fabianoribeiroimoveis.com/)**
-Portal de imóveis com painel administrativo e API dedicada para gestão de anúncios e conteúdo.
-`Java` `Spring Boot` `Spring Security` `Spring Data` `MySQL` `JWT/OAuth2` - `Next.js` `TypeScript`
-
-Ambos são projetados, implementados e operados por mim. Da modelagem de dados à interface, incluindo as decisões de arquitetura por trás de cada um.
-
----
-
-### O que eu busco
-
-Times de engenharia trabalhando em **sistemas de alta escala**, onde decisões de arquitetura e qualidade de código tenham peso real no resultado. Não só velocidade de entrega, mas sistemas que seguem corretos e performáticos conforme crescem.
 
 ---
 
