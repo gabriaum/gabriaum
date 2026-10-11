@@ -19,8 +19,6 @@
 
 Engenheiro de software com foco em **arquitetura de sistemas**, **backend em Java** e **design de APIs para escala**. Trabalho de ponta a ponta, modelagem de dados, autenticação, mensageria, performance e frontend quando o produto exige. Mas o eixo do meu trabalho é decisão técnica: como um sistema se comporta sob carga, como ele falha, e como ele evolui sem reescrita.
 
-Hoje sustento em produção dois sistemas próprios com clientes reais, responsável por todo o ciclo: arquitetura, implementação, operação e evolução.
-
 ---
 
 ### Como penso engenharia
